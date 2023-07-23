@@ -98,7 +98,7 @@ function getChatbotResponse(userInput) {
 	  else if (userInput.includes('frd') || userInput.includes('friends') || userInput.includes('frds') || userInput.includes('bestfrds')  ) 
 	  {
 		
-		return "1) karthik\n2)Rabbit\n3)shivani\n4)rishitha 5)rishi";
+		return "1) karthik\n2)Rabbit\n3)shivani\n4)rishitha 5)rishi 6)hanith";
 	
 	
 	  } 
